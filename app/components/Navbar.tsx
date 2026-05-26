@@ -17,11 +17,11 @@ export default function Navbar() {
         </Link>
 
 <a
-            href="https://mail.google.com/mail/?view=cm&fs=1&to=formalpythons@gmail.com"
-            className="px-6 py-3 border border-zinc-700 rounded-xl text-gray-300 hover:text-white transition w-full sm:w-auto text-center"
-          >
-            Contact
-          </a>
+  href="mailto:formalpythons@gmail.com?subject=Portfolio%20Contact" 
+  className="hover:text-white transition"
+>
+  Contact
+</a>
         <a
           href="https://www.linkedin.com/in/anniepkj/"
           target="_blank"
